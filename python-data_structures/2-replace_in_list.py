@@ -11,6 +11,6 @@ def replace_in_list(my_list, idx, element):
 # Example usage
 if __name__ == "__main__":
     my_list = [10, 20, 30, 40, 50]
-    print(replace_in_list(my_list, 2, 99)) 
+    print(replace_in_list(my_list, 2, 99))
     print(replace_in_list(my_list, -1, 100))
-    print(replace_in_list(my_list, 5, 200)) 
+    print(replace_in_list(my_list, 5, 200))
